@@ -1,0 +1,11 @@
+{
+  "name": "sd-codemods-test",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node build-tokens.cjs"
+  },
+  "devDependencies": {
+    "style-dictionary": "^3.9.2"
+  }
+}
